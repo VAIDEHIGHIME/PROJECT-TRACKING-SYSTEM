@@ -16,13 +16,7 @@ import java.util.List;
 
 
 
-/**
- * AbstractDAO.java This DAO class provides CRUD database operations for the
- * table users in the database.
- * 
- * @author Ramesh Fadatare
- *
- */
+
 public class EmpDao {
     
     DBAO dbao= new DBAO();
